@@ -1,0 +1,1 @@
+{"version":2,"name":"express-now-test","builds":[{"src":"**/*.js","use":"@now/node"}]}
